@@ -1,0 +1,42 @@
+_repo: The-journal-of-prison-discipline-and-philanthropy-Vol-XV-No-I-January-1860_72469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Philadelphia Society for Alleviating the Miseries of Public Prisons
+    aliases:
+    - Society for Alleviating the Miseries of Public Prisons
+    - Prison Society of Philadelphia
+    - Society, Established in Philadelphia, for Alleviating the Miseries of Public
+      Prisons
+    - Philadelphia Society for Ameliorating the Miseries of Public Prisons
+    - Prisons, Philadelphia Society for Alleviating the Miseries of Public
+    gutenberg_agent_id: '47136'
+    url: http://www.gutenberg.org/2009/agents/47136
+    wikipedia: https://www.gutenberg.org/ebooks/author/49187
+description: ''
+gutenberg_issued: '2023-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72469'
+language: en
+pgterms:marc904:
+- view=1up
+- seq=11
+- https://babel.hathitrust.org/cgi/pt?id=nyp.33433075948590
+pgterms:marc905: 20161026072033unk
+pgterms:marc906: Various
+pgterms:marc907: US
+production_note: Richard Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aPhiladelphia :$bE. C. and J. Biddle, $cVarious.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charities -- Periodicals'
+- !lcsh 'Prisons -- Periodicals'
+- !lcc 'HV'
+- GITenberg
+title: The journal of prison discipline and philanthropy (Vol. XV, No. I, January
+  1860)
+url: http://www.gutenberg.org/ebooks/72469
