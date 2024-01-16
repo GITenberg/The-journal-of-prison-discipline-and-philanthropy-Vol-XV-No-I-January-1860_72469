@@ -1,5 +1,8 @@
 _repo: The-journal-of-prison-discipline-and-philanthropy-Vol-XV-No-I-January-1860_72469
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72469-h/images/cover.jpg
 creator:
   author:
     agent_name: Philadelphia Society for Alleviating the Miseries of Public Prisons
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47136
     wikipedia: https://www.gutenberg.org/ebooks/author/49187
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72469#The-journal-of-prison-discipline-and-philanthropy-Vol-XV-No-I-January-1860
 gutenberg_issued: '2023-12-21'
 gutenberg_type: Text
 identifiers:
